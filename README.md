@@ -122,5 +122,3 @@ Connect and see more of my projects:
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/15LUCASARAUJO)
 
 ---
-
-<hr style="height:5px; border:none; background-color:#333;" />
