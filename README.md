@@ -44,7 +44,7 @@ The **Rating Content Indicator** was developed to optimize the collection of inf
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <!-- Sql Tag - <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">-->
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="Groq">
 </p>
 
 ---
@@ -60,11 +60,7 @@ Before you begin, ensure you have met the following requirements:
 This project requires environment variables for proper functioning, especially for AI integration. Follow these steps to set them up:
 
 1.  Create a file named `.env` in the root directory of the project.
-2.  Add your API keys and other sensitive information to this file. For example:
-    ```
-    OPENAI_API_KEY=your_openai_api_key_here
-    # Add any other environment variables here
-    ```
+2.  Add your API keys and other sensitive information to this file. For example:  
 3.  Ensure that the `.env` file is included in your `.gitignore` to prevent it from being committed to version control.
 
 ---
