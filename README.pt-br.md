@@ -44,7 +44,7 @@ O **Indicador de Teor de Avaliações** foi desenvolvido para otimizar a coleta 
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JS">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <!-- Sql Tag - <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite">-->
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge&logoColor=white" alt="Groq">
 </p>
 
 ---
@@ -61,10 +61,6 @@ Este projeto requer variáveis de ambiente para o funcionamento adequado, especi
 
 1.  Crie um arquivo chamado `.env` na raiz do diretório do projeto.
 2.  Adicione suas chaves de API e outras informações sensíveis a este arquivo. Por exemplo:
-    ```
-    OPENAI_API_KEY=sua_chave_api_openai_aqui
-    # Adicione outras variáveis de ambiente aqui
-    ```
 3.  Certifique-se de que o arquivo `.env` esteja incluído no seu `.gitignore` para evitar que seja versionado.
 
 ---
