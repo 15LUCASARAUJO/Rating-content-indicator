@@ -27,9 +27,9 @@
 
 ## Sobre
 
-O **Indicador de Teor de Avaliações** foi desenvolvido com a finalidade de otimizar a coleta e organização de informações de empresasreferente a avaliação de usuários. Com o auxilio de IA, o sistema categoriza avaliações em níveis de satisfação e temas de mensagens, fornecendo insights rápidos e acionáveis que ajudam equipes a tomarem decisões orientadas por dados.
+O **Indicador de Teor de Avaliações** foi desenvolvido com a finalidade de otimizar a coleta e organização de informações de empresas referente a avaliação de usuários. Com o auxilio de IA, o sistema categoriza avaliações em níveis de satisfação e temas de mensagens, fornecendo insights rápidos e acionáveis que ajudam equipes a tomarem decisões orientadas por dados.
 >**Por que este projeto?**  
->A análise manual de avaliações é lenta e inconsistente, está ferramenta automatiza o processo, garantindo que cada avaliação seja classificada com precisão e estruturada.
+>A análise manual de avaliações é lenta e inconsistente, esta ferramenta automatiza o processo, garantindo que cada avaliação seja classificada com precisão e estruturada.
 
 ---
 
